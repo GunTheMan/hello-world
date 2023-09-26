@@ -5,6 +5,6 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 
-It nw includes steps for GutHub.
+It now includes steps for GutHub.
 
 And another change to use pull-command.
